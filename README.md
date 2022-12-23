@@ -29,6 +29,10 @@ Notice that in this example Provider resource is referencing ControllerConfig wi
 
 You can see the API reference [here](https://doc.crds.dev/github.com/chicoribas/provider-github).
 
+## Testing
+
+https://github.com/upbound/upjet/blob/main/docs/generating-a-provider.md#test
+
 ## Developing
 
 Run code-generation pipeline:
@@ -58,3 +62,4 @@ make build
 
 For filing bugs, suggesting improvements, or requesting new features, please
 open an [issue](https://github.com/chicoribas/provider-github/issues).
+
